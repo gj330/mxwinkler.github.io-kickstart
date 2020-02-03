@@ -79,7 +79,7 @@ I am a PhD Candidate in Economics at the [University of Zurich](https://www.econ
 
 I am particularly interested in the application of research in cultural evolution to public policy and the private sector.
 
-You can find a pdf version of my [C.V. here](static/files/cv.pdf).
+You can find a pdf version of my [C.V. here](files/cv.pdf).
 
 My research has benefited from generous support from the following organizations:
 
