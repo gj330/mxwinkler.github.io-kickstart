@@ -81,15 +81,7 @@ I am particularly interested in the application of research in cultural evolutio
 
 You can find a pdf version of my [C.V. here](static/files/cv.pdf).
 
-<!-- References:
-
-* [Alberto Alesina](aalesina@harvard.edu)
-* [Joseph Henrich](henrich@fas.harvard.edu)
-* [Nathan Nunn](nnunn@fas.harvard.edu)
-* [Joachim Voth](voth@econ.uzh.ch)
-* [David Yanagizawa-Drott](david.yanagizawa-drott@econ.uzh.ch) -->
-
-My research benefits from generous support from the following organizations:
+My research has benefited from generous support from the following organizations:
 
 * [Swiss National Science Foundation](http://www.snf.ch/)
 * [Swiss Study Foundation](https://www.studyfoundation.ch/)
