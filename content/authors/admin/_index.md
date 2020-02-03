@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Max Winkler
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,36 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Zurich
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Development Economics
+- Political Economy
+- Cultural Economics
+- Text as Data
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Economics
+    institution: University of Zurich
+    year: 2020 (expected)
+  - course: MSc in Economics
+    institution: Barcelona Graduate School of Economics
+    year: 2013
+  - course: BA in International Affairs
+    institution: University of St. Gallen
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA in Business Administration
+    institution: University of St. Gallen
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +48,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:max.winkler@econ.uzh.ch'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/_MaxWinkler_
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mxwinkler
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +75,21 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD Candidate in Economics at the [University of Zurich](https://www.econ.uzh.ch/en.html) and affiliated researcher at the [Culture, Cognition, and Coevolution Lab](https://coevolution.fas.harvard.edu/) at [Harvard University](https://coevolution.fas.harvard.edu/). My primary research interests lie at the intersection of Development Economics, Political Economy, Economic History, and Cultural Economcis. I study the determinants and implications of cultural beliefs, norms, and social networks, using novel longitudinal data sets and innovative empirical methods -- including machine learning and natural language processing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am particularly interested in the application of research in cultural evolution to public policy and the private sector.
+
+You can find a pdf version of my [C.V. here](static/files/cv.pdf).
+
+<!-- References:
+
+* [Alberto Alesina](aalesina@harvard.edu)
+* [Joseph Henrich](henrich@fas.harvard.edu)
+* [Nathan Nunn](nnunn@fas.harvard.edu)
+* [Joachim Voth](voth@econ.uzh.ch)
+* [David Yanagizawa-Drott](david.yanagizawa-drott@econ.uzh.ch) -->
+
+My research benefits from generous support from the following organizations:
+
+* [Swiss National Science Foundation](http://www.snf.ch/)
+* [Swiss Study Foundation](https://www.studyfoundation.ch/)
