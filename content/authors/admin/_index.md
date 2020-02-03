@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate in Economics at the [University of Zurich](https://www.econ.uzh.ch/en.html) and affiliated researcher at the [Culture, Cognition, and Coevolution Lab](https://coevolution.fas.harvard.edu/) at [Harvard University](https://coevolution.fas.harvard.edu/). My primary research interests lie at the intersection of Development Economics, Political Economy, Economic History, and Cultural Economcis. I study the determinants and implications of cultural beliefs, norms, and social networks, using novel longitudinal data sets and innovative empirical methods -- including machine learning and natural language processing.
+I am a PhD Candidate in Economics at the [University of Zurich](https://www.econ.uzh.ch/en.html) and affiliated researcher at the [Culture, Cognition, and Coevolution Lab](https://coevolution.fas.harvard.edu/) at [Harvard University](https://coevolution.fas.harvard.edu/). My primary research interests lie at the intersection of Development Economics, Political Economy, and Cultural Economics. I study how culture and social networks affect economic development and vice verse, using novel longitudinal data sets and innovative empirical methods -- including machine learning and natural language processing.
 
 I am particularly interested in the application of research in cultural evolution to public policy and the private sector.
 
