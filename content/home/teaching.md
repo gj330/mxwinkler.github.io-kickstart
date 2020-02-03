@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## Teaching @ University of Zurich
+## @ University of Zurich
 
 As an Instructor:
 
