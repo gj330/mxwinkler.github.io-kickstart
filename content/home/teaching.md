@@ -56,7 +56,7 @@ As an Instructor:
 
 * [Programming Practices for Research in Economics](https://pp4rs.github.io), 2nd year PhD Course.
 
-    * Co-taught with [Lachlan Deer](https://www.lachlandeer.github.io), [Adrian Etter](https://www.linkedin.com/in/adrian-etter-88351565/), and [Julian Langer](https://www.julianlanger.github.io)
+    * Co-taught with [Lachlan Deer](https://lachlandeer.github.io), [Adrian Etter](https://www.linkedin.com/in/adrian-etter-88351565/), and [Julian Langer](https://www.julianlanger.github.io)
 
     * 2017 Edition: [Course Home Page](http://pp4rs.github.io/2017-uzh), [Course Material](https://github.com/pp4rs/2017-uzh-course-material) & [Installation Guide](http://pp4rs.github.io/installation-guide)
     * 2016 Edition: Material similar to the 2017 edition.
